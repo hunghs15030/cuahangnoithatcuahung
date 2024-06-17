@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>hi</pattern>
+    <template>chào bạn mình là chatbot của cửa hàng nội thất không biết bạn cần mặt hàng nội thất nào?
+</template>
+  </category>
+<category>
+    <pattern>bàn học </pattern>
+    <template>cửa hàng có các loại bàn học như có giá sách , ngăn kéo ,giá sách 2 tầng bạn muốn sử dụng loại nào ?😇</template>
+</category>
+<category>
+    <pattern>bàn học có ngăn kéo</pattern>
+    <template>bàn học có ngăn kéo có thể bảo quản các đồ dùng khá tốt mời bạn tham khảo các sản phẩm của cửa hàng
+    <button>
+        <text>hình ảnh</text>
+        <url>https://hestiadecor.com/ban-hoc-co-ngan-keo-gh06/</url>
+    </button>
+</template>
+</category>
+<category>
+    <pattern>ghế </pattern>
+    <template>cửa hàng mình có các loại ghế như ghế nhựa ghế inox ghế gõ muốn chọn loại ghế nào?</template>
+</category>
+<category>
+    <pattern>bàn học có giá sách</pattern>
+    <template>bàn học có giá sách đang hết hàng bạn hãy chọn loại bàn khác giúp mình nhé😇!!</template>
+</category>
+<category>
+    <pattern> ghế inox </pattern>
+    <template>ghế inox loại 1m giá là 200k 
+    ghế inox loại 1m5 giá là 250k 
+    ghế inox loại 2m giá là 500k mời bạn tham khảo
+    <button>
+        <text>loại 1m</text>
+        <url>https://inoxgiadinh.vn/san-pham/ghe-inox-cao-1m/</url>
+    </button>
+    <button>
+        <text>loại 1m5</text>
+        <url>https://noithatdaingan.vn/ghe-inox/ghe-inox-cao-1m5/</url>
+    </button>
+    <button>
+        <text>loại 2m</text>
+        <url>https://inoxnamviet.vn/san-pham/ghe-inox-cao-2-m/</url>
+    </button></template>
+</category>
+<category>
+    <pattern>tủ đồ</pattern>
+    <template>cửa hàng có các loại tủ đồ như gỗ và nhựa bạn muốn chọn loại nào ạ?
+</template>
+</category>
+<category>
+    <pattern>tủ nhựa</pattern>
+    <template>tủ nhựa có các loại như 5 ngăn 6 ngăn và 7 ngăn 
+Với loại 5 ngăn giá sẽ là 5 triệu đồng, 6 ngăn sẽ là 6 triệu và 7 ngăn sẽ là 7 triệu đồng bạn muốn chọn loại nào
+<button>
+    <text>loại 5 ngăn </text>
+    <url>https://shoptunhua.com/san-pham/tu-nhua-duy-tan-dai-kieu-5-tang/</url>
+</button>
+<button>
+    <text>loại 6 ngăn</text>
+    <url>https://nhuaduytanmienbac.com/tu-nhua-duy-tan-tabi-6-tang-mau-trang-van-go-id451.html
+    <button>
+        <text>loại 7 ngăn </text>
+        <url>https://tunhuaduytan.com.vn/san-pham/tu-nhu-a-kata-7-ta-ng-tra-ng-774</url>
+    </button>
+    </url>
+   
+</button>
+
+</template>
+</category>
+</aiml>
